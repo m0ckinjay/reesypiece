@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! I'm Reese.
+she/her. CS student @ OnTechU. i don't know what i'm doing here. 
+i use ~~arch~~ artix linux btw.
 
 <!--
 **lessfelt/lessfelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
