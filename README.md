@@ -1,3 +1,3 @@
-<img src="https://github.com/lessfelt/lessfelt/blob/master/mlem.gif" alt=":P Hello there~" align="right" valign="middle"><p align="justify">Hi! I'm Reese. she/her, 19. I like to play around with code and express myself <strike>by using Arch btw</strike> using that code. I'm a first year computer science student at Ontario Tech University - if you see me there say hi! <br> My GitHub is pretty empty as of late, and that's because I have impostor syndrome and I haven't really considered this until very, VERY recently. Regardless, I hope you have a great day!</p>
-<hr>
-<p align="center"><img src="https://github.com/lessfelt/lessfelt/blob/master/pippu.png"> discord: lessfelt#0001 <img src="https://github.com/lessfelt/lessfelt/blob/master/pippu.png"></p>
+# Hi! I'm Reese.
+I'm an undergrad CS student (she/her) based in Canada, where I'm learning **Python** and **C++**. Apart from that, I like learning things the best way I can - by bruteforcing until it works.
+In my spare time, I fangirl over (G)I-DLE's Soyeon and play rhythm games. Valorant counts as a rhythm game, right?
