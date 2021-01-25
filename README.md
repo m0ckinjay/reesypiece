@@ -5,4 +5,4 @@ Currently working on <a href="https://github.com/kiryu-coco/miyeonie">Miyeon</a>
 
 In my spare time, I watch Hololive VTubers and play comfy puzzle/detective games.
 
-Pixel art by <a href="https://twitter.com/FerenaiNexi/status/1266432689839632385">FerenaiNexi,</a> and icon by <a href="https://twitter.com/gahye0nie/status/1348732817820299264">gahye0nie.</a>
+Pixel art by <a href="https://twitter.com/FerenaiNexi/status/1266432689839632385">@FerenaiNexi,</a> and icon by my wonderful partner Sara.
