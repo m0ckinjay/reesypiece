@@ -11,10 +11,11 @@ In my spare time, I mess around with the Discord API through <a href="https://gi
 <img src="https://img.shields.io/badge/en--CA-fluent-success?&style=for-the-badge"> <img src="https://img.shields.io/badge/fr--CA-intermediate-green?&style=for-the-badge"> <img src="https://img.shields.io/badge/ja--JP-beginner-yellow?&style=for-the-badge">
 
 ## Tools of the Trade
-<img src="https://img.shields.io/badge/Nvim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Nvim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white">
 
 ## Extra Stuff About Me
 - I like K-pop, especially girl groups. Talk to me about <a href="https://en.wikipedia.org/wiki/Dreamcatcher_(group)">Dreamcatcher</a>, <a href="https://en.wikipedia.org/wiki/(G)I-dle">(G)I-DLE</a>, and <a href="https://en.wikipedia.org/wiki/Loona">LOONA</a>.
   - ~~Speaking of (G)I-DLE, I ended up buying one album and winning a fansign with Soyeon. I still don't know how that happened.~~ 
 - I also like playing video games - you can notice that most of what I code on the side is some sort of companion for at least one game. :P 
 - I use the UK-ISO layout despite living in Canada.
+- My favourite terminal palette is Dracula, with Gruvbox Dark being a close second.
