@@ -3,6 +3,8 @@ I'm a 20 year-old (she/her) first-year computer science student at Ontario Tech 
 
 In my spare time, I mess around with the Discord API through <a href="https://github.com/reesypiece">Miyeonie</a>, and voice recognition ~~with DefusalBot~~ in a repository not initialized yet.
 
+<a href="https://www.linkedin.com/in/reesypiece/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:mariel.dominguez@ontariotechu.net"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 ## Languages
 ### Development
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
