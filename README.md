@@ -1,5 +1,5 @@
 # Hi! I'm Reese. ✌️
-I'm a 20 year-old (she/her) first-year computer science student at Ontario Tech University who uses code to get my ideas out. My goal in life is to be able to learn as much of what interests me as possible.
+I'm a 20 year-old (they/them, but she/her is okay I guess) first-year computer science student at Ontario Tech University who uses code to get my ideas out. My goal in life is to be able to learn as much of what interests me as possible.
 
 In my spare time, I mess around with the Discord API through <a href="https://github.com/reesypiece/miyeonie">Miyeonie</a>, and voice recognition ~~with DefusalBot~~ in a repository not initialized yet.
 
